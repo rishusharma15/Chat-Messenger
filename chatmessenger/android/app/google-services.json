@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228210673762",
+    "project_id": "chat-rishabh",
+    "storage_bucket": "chat-rishabh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228210673762:android:0e5aff73e948089b0fa93b",
+        "android_client_info": {
+          "package_name": "com.example.chatmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228210673762-ntjge2hejchpfrr5chh61crb49s7otib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkk4SbkBa81yJ4bfbclGzUKf4SyWwvnsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228210673762-ntjge2hejchpfrr5chh61crb49s7otib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
